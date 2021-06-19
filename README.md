@@ -1,9 +1,9 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
+
 
 
 # Bitcoin Ticker 🤑
 
-## What I learn
+## What I learnt
 
 - How to use the DropdownButton Widget from Material design.
 - How to loop through code using Dart for and for-in loops.
